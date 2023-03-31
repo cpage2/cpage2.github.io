@@ -1,0 +1,26 @@
+.work{
+    padding-top: 7%;
+    text-align: center;
+    
+    
+}
+
+#workTitle{
+    padding-bottom: 5%;
+    /* font-family: 'Playfair Display', serif; */
+    font-size: 34pt;
+}
+
+.col{  
+   padding-bottom: 20px;
+    max-width: 250px;
+    
+}
+
+.footer{
+    margin-top: 2%;
+    background-color: #091540;
+    
+    height: 85px;
+   
+}
